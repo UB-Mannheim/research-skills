@@ -1,0 +1,71 @@
+README-DATEI METRORADAR 2025
+DOI: https://doi.org/10.1234/5678
+
+
+
+#ALLGEMEINE INFORMATIONEN
+
+##Titel
+MetroRadar 2025
+
+##Autorin / Kontaktperson bei Fragen zum MetroRadar
+Name: Anna Berger
+Institution: Universität Nordfeld - Zentrum für Lehrerbildung und Bildungsforschung (ZLBF)
+Email: anna.berger@uni-nordfeld.de
+
+##Autorin / Kontaktperson bei Fragen zum Projekt TransforCity
+Name: Miriam Schuster
+ORCID: https://orcid.org/0000-0002-1234-5678
+Institution: Universität Nordfeld - Zentrum für Lehrerbildung und Bildungsforschung (ZLBF)
+Email: m.schuster@uni-nordfeld.de
+
+##Lizenz
+Dieser Datensatz ist lizenziert unter der Creative Common Attribution 4.0 International (CC BY 4.0) Lizenz.
+Die Daten dürfen frei verwendet, verändert und weitergegeben werden, solange die ursprünglichen Autorinnen korrekt genannt werden.
+
+
+
+#BESCHREIBUNG DES DATENSATZES
+
+Dieser Datensatz enthält die Ergebnisse einer Umfrage (n=754), die u.a. zum Ziel hatte, das aktuelle Wellbeing, Problemwahrnehmungen sowie Bedürfnisse der Bürgerinnen und Bürger der Metropolregion Nordfeld (MRN) zu erheben. Die erhobenen Variablen umfassen demographische Angaben, Angaben zum persönlichen Wohlbefinden in der MRN und MA sowie Angaben zu Problemen in MA und der MRN und möglichen Lösungsansätzen durch die wissenschaftlichen Institutionen.
+
+Die Rohdaten wurden bereinigt, indem unvollständige Antworten und technische Metadaten (Browsertyp, IP-Adressen, etc.) entfernt, bzw. fehlende Angaben einheitlich identifiziert und als solche gekennzeichnet wurden.
+
+
+
+#DATENSTRUKTUR
+
+/data	—> Daten der Umfrage
+/docs	—> ReadMe, Codebook, Umfragebogen
+
+
+
+#METHODIK
+
+#Datenerhebung
+##Medium
+Papierfragebögen und Flyer mit Umfragelink (in Person) und digital (Onlineumfrage)
+
+##Ort
+Papierfragebögen und Flyer wurden an drei Standorten an vier verschiedenen Tagen eingesetzt. Hierbei waren die Interviewerinnen jeweils 1,5 bis 4 Stunden anwesend. Die Ansprachen fanden statt bei:
+	- Nordfeld Frühlingsmarkt (01.05.2025 und 06.05.2025)
+	- Wochenmarkt am Rathausplatz (10.05.2025)
+	- Städtische Volkshochschule (20.05.2025)
+Der Umfragelink wurde digital über verschiedenste Plattformen geteilt.
+
+##Feldzeit
+Die Onlineumfrage war vom 01.05.2025 bis 31.05.2025 verfügbar.
+
+
+
+#ZITIEREMPFEHLUNG
+
+Bitte zitieren Sie diesen Datensatz wie folgt:
+
+Berger, Anna & Schuster, Miriam (2025): Datensatz MetroRadar 2025, Version 1.0. Universität Nordfeld, im Rahmen des Verbundprojekts TransforCity (Stand: September 2025)
+
+
+
+#ANMERKUNGEN
+
+Bei der Veröffentlichung der Resultate muss auf die begrenzte Aussagekraft der Untersuchung hingewiesen werden. Es gilt, die Ergebnisse nicht zu verallgemeinern, sondern diese als momentanes Stimmungsbild von freiwilligen Teilnehmenden des MetroRadars 2025 im Monat Mai 2025 zu interpretieren. Empfohlen wird zudem, die Ergebnisse dieser nicht-repräsentativen Umfrage mit anderen Datenquellen zu vergleichen, um ein umfassenderes Bild zu erhalten.
