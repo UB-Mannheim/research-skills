@@ -1,6 +1,9 @@
 /venv*
+.venv/
 __pycache__/
 .DS_Store
 *.env*
-.venv/
 /*dump*/
+env*
+.backup/
+docs/
