@@ -1,5 +1,11 @@
 # Research Skills FSS 2026: *Openness in and with AI*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19681586.svg)](https://doi.org/10.5281/zenodo.19681586)
+
+> Kolb, E., & Schmidt, T. (2026, April 21). Openness in and with AI. Zenodo. https://doi.org/10.5281/zenodo.19681586
+
+## Introduction
+
 This README provides installation instructions for running the jupyter notebook `openness-and-ai.ipynb`. The notebook runs local LLM experiments with [Ollama](https://ollama.com/) via the python package [litellm](https://github.com/BerriAI/litellm).
 
 ## Prerequisites:
